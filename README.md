@@ -1,2 +1,5 @@
 # FreeSoftware_StarterPack
- A pack of free software useful on a daily basis
+
+[FR]Portail personnel regroupant des logiciels libres utiles au quotidien
+
+[ENG]Personal portal with free software useful on a daily basis
